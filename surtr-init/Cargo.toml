@@ -1,0 +1,11 @@
+[package]
+name = "surtr-init"
+version = "0.1.0"
+
+description = "Initialization library for the vulkan api"
+repository = "https://github.com/CodingRays/surtr"
+readme = "README.md"
+license = "BSD-3-Clause"
+edition = "2021"
+
+[dependencies]
